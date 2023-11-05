@@ -23,7 +23,7 @@ export function Hero() {
 					height='auto'
 					width='auto'
 					className='shadow-md scale-75 hover:scale-90 transition-all duration-500 ease-in-out'
-					src='../../public/snipet.png'
+					src='/snipet.png'
 					alt='code snipet'
 				/>
 			</div>
